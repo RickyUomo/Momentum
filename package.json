@@ -1,0 +1,19 @@
+{
+  "name": "momemtum",
+  "version": "1.0.0",
+  "description": "build a chrome momemtum extension",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "ricky",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "parcel-bundler": "^1.12.5"
+  },
+  "devDependencies": {},
+  "keywords": []
+}
